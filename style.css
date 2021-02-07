@@ -1,0 +1,19 @@
+.inputButton{
+    text-align: center;
+    
+}
+#mealsName{
+	display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+#mealsName img{
+	width: 200px;
+}
+#container{
+	display: none;
+}
+.meal-name{
+	font-size: 30px;
+    color: rgb(128, 0, 96);
+}
