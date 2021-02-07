@@ -17,3 +17,6 @@
 	font-size: 30px;
     color: rgb(128, 0, 96);
 }
+#mealDetail img{
+    width: 200px;
+}
